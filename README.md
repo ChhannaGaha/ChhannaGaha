@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ChhannaGaha
+- 👋 Hi, I’m Chhanna.
 - 👀 I’m interested in Data Analysis, Data Visualization.
-- 🌱 I’m currently learning Tableau, Power BI, and Python for Data Analysis
+- 🌱 I’m currently learning Tableau, Power BI, and Python for Data Analysis.
 - 📫 You can reach me: chhanna.b.gaha@gmail.com
 
 <!---
