@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chhanna.
 - 👀 I’m interested in Data Analysis, Data Visualization.
 - 🌱 I’m currently learning Tableau, Power BI, and Python for Data Analysis.
-- :blush: I love to describe myself as: :sun_with_face: Optimist, :baby:lifetime-learner
+- :blush: I love to describe myself as: :sun_with_face: Optimist, :baby:lifelong learner
 - 📫 You can reach me: chhanna.b.gaha@gmail.com
 
 <!---
